@@ -5,7 +5,10 @@
  */
 
 body {
-  background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+  background: url('../img/logo.png') no-repeat center center fixed;
+}
+
+zzz_body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
